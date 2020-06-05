@@ -13,4 +13,4 @@ The origin of this is my local system
 Sample website with plenty of files for demos
 
 ## Objective 
-We are learning  the merging 
+We are learning  the merging in a good manner

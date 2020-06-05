@@ -11,3 +11,6 @@ The origin of this is my local system
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Objective 
+We are learning  the merging 
